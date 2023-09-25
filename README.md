@@ -2,7 +2,8 @@
 
 
 
-对mimikatz进行base64编码
+对Mimikatz参数进行Base64编码传递
+
 
 
 
